@@ -12,7 +12,7 @@ This repository contains three machine learning projects focused on natural lang
      - Comparison of original and fine-tuned models
 
 2. **Machine TranslationV1.1**
-   - [File: `Machine_Translation_V1.1.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.1.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.1.ipynb)
+   - [File: `Machine_Translation_V1.1.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.1.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_TranslationV1.1.ipynb)
    - Description: An improved neural machine translation model for English to Arabic translation using a Seq2Seq architecture with LSTM layers.
    - Key Features:
      - Comprehensive data preprocessing and cleaning
