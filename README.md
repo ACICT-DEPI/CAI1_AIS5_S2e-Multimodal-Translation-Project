@@ -3,16 +3,16 @@ This repository contains three machine learning projects focused on natural lang
 
 ## Projects
 
-1. **Machine TranslationV1.0**
-   - [File: `Machine_Translation_V1.0.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.0.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.0.ipynb)
+1. **Machine Translation V1.0**
+   - [File: `Machine_Translation_V1.0.ipynb`](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.0.ipynb)
    - Description: A neural machine translation model for English to Arabic translation using the MarianMT architecture.
    - Key Features:
      - Data preprocessing and analysis
      - Model training and fine-tuning
      - Comparison of original and fine-tuned models
 
-2. **Machine TranslationV1.1**
-   - [File: `Machine_Translation_V1.1.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.1.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_TranslationV1.1.ipynb)
+2. **Machine Translation V1.1**
+   - [File: `Machine_Translation_V1.1.ipynb`](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.1.ipynb)
    - Description: An improved neural machine translation model for English to Arabic translation using a Seq2Seq architecture with LSTM layers.
    - Key Features:
      - Comprehensive data preprocessing and cleaning
@@ -20,7 +20,7 @@ This repository contains three machine learning projects focused on natural lang
      - Inference model for translating new sentences
 
 3. **Chatbot**
-   - [File: `Chatbot.ipynb`][[(Notebooks/Chatbot/Chatbot.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Chatbot/Chatbot.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Chatbot/Chatbot.ipynb)
+   - [File: `Chatbot.ipynb`](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Chatbot/Chatbot.ipynb)
    - Description: A conversational AI chatbot using various NLP techniques.
    - Key Features:
      - Data preprocessing and exploratory data analysis
@@ -29,7 +29,7 @@ This repository contains three machine learning projects focused on natural lang
      - Fine-tuning of a pre-trained language model (FLAN-T5)
 
 4. **Image to Text Extraction (OCR)**
-   - [File: `Image to text Extraction.ipynb`][(Notebooks/Image to text extraction/Image to text Extraction.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Image%20to%20text%20extraction/Image%20to%20text%20Extraction.ipynb)
+   - [File: `Image_to_text_extraction.ipynb`](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Image%20to%20text%20extraction/Image_to_text_extraction.ipynb)
    - Description: An Optical Character Recognition (OCR) system using deep learning and computer vision techniques.
    - Key Features:
      - Custom CNN model for character recognition
@@ -39,15 +39,15 @@ This repository contains three machine learning projects focused on natural lang
 ## Setup and Dependencies
 
 To run these projects, you'll need to install the following main dependencies:
-tensorflow
-transformers
-torch
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-opencv-python
+- tensorflow
+- transformers
+- torch
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- opencv-python
 
 You can install these dependencies using pip:
 
