@@ -3,7 +3,7 @@ This repository contains three machine learning projects focused on natural lang
 
 ## Projects
 
-1. **Machine Translation**
+1. **Machine TranslationV1.0**
    - [File: `Machine_Translation_V1.0.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.0.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.0.ipynb)
    - Description: A neural machine translation model for English to Arabic translation using the MarianMT architecture.
    - Key Features:
@@ -11,7 +11,15 @@ This repository contains three machine learning projects focused on natural lang
      - Model training and fine-tuning
      - Comparison of original and fine-tuned models
 
-2. **Chatbot**
+2. **Machine TranslationV1.1**
+   - [File: `Machine_Translation_V1.0.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.1.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.1.ipynb)
+   - Description: A neural machine translation model for English to Arabic translation using the MarianMT architecture.
+   - Key Features:
+     - Data preprocessing and analysis
+     - Model training and fine-tuning
+     - Comparison of original and fine-tuned models
+
+3. **Chatbot**
    - File: `chatbot.ipynb`
    - Description: A conversational AI chatbot using various NLP techniques.
    - Key Features:
@@ -20,7 +28,7 @@ This repository contains three machine learning projects focused on natural lang
      - Sequence-to-Sequence model with attention for response generation
      - Fine-tuning of a pre-trained language model (FLAN-T5)
 
-3. **Image to Text Extraction (OCR)**
+4. **Image to Text Extraction (OCR)**
    - File: `image_to_text_extraction.ipynb`
    - Description: An Optical Character Recognition (OCR) system using deep learning and computer vision techniques.
    - Key Features:
