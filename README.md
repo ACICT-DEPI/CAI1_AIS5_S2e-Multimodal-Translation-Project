@@ -4,7 +4,7 @@ This repository contains three machine learning projects focused on natural lang
 ## Projects
 
 1. **Machine Translation**
-   - [File: `Machine_Translation_V1.0.ipynb`](Notebooks/Machine Translation/Machine_Translation_V1.0.ipynb)
+   - [File: `Machine_Translation_V1.0.ipynb`][(Notebooks/Machine Translation/Machine_Translation_V1.0.ipynb)](https://github.com/OmarMedhatDev/Multimodal-Translation-Project---DEPI/blob/master/Notebooks/Machine%20Translation/Machine_Translation_V1.0.ipynb)
    - Description: A neural machine translation model for English to Arabic translation using the MarianMT architecture.
    - Key Features:
      - Data preprocessing and analysis
